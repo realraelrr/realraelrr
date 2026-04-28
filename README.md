@@ -2,10 +2,10 @@
   <img src="./assets/profile-banner.svg" alt="realraelrr - agentic tools and runtime automation" width="100%" />
 </p>
 
-<h1 align="center">realraelrr</h1>
+<h1 align="center">Rael · realraelrr</h1>
 
 <p align="center">
-  Building agentic tools, runtime automation, and developer workflows.
+  Building agentic tools, runtime automation, and AI workflows with Hermes agent + Codex.
 </p>
 
 <p align="center">
@@ -23,10 +23,19 @@
 I build practical AI-agent infrastructure and automation tools:
 
 - Agent runtime workflows
+- Hermes agent + Codex workflows
 - Developer productivity systems
 - PDF and document ingestion pipelines
 - Gateway, watchdog, and recovery tooling
 - Small, reliable tools that are easy to run and inspect
+
+---
+
+### AI Workflow
+
+My default working loop is `Hermes agent + Codex`: Hermes carries memory, routing, and workflow continuity; Codex handles focused implementation, verification, and codebase edits.
+
+I use agents as an engineering surface, not a novelty layer: every useful workflow needs clear handoff state, reproducible commands, and observable recovery paths.
 
 ---
 
@@ -67,7 +76,7 @@ I build practical AI-agent infrastructure and automation tools:
 
 For the full effect, set these GitHub profile fields manually after publishing this repository:
 
-- Name: `realraelrr` or your preferred display name
-- Bio: `Building agentic tools, runtime automation, and developer workflows.`
+- Name: `Rael`
+- Bio: `Building AI workflows with Hermes agent + Codex.`
 - Website: your personal site if you want one public
 - Pinned repositories: `idlepilot-agent`, `docling-skill`, `hermes-gateway-watchdog`, `openclaw-gateway-watchdog`

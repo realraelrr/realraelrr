@@ -37,7 +37,7 @@
     <text x="18" y="23" fill="#BFDBFE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="600">AGENTIC TOOLING</text>
 
     <text x="0" y="112" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="74" font-weight="800" letter-spacing="-3">realraelrr</text>
-    <text x="2" y="164" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="500">Building runtime automation, AI-agent workflows, and developer systems.</text>
+    <text x="2" y="164" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="500">Building AI workflows with Hermes agent + Codex.</text>
 
     <g transform="translate(0 212)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="600">
       <rect x="0" y="0" width="174" height="42" rx="21" fill="#2563EB" fill-opacity="0.95"/>
