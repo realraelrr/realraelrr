@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="realraelrr - agentic tools and runtime automation" width="100%" />
-</p>
+[<img src="./assets/profile-banner.svg" alt="realraelrr - agentic tools and runtime automation" width="100%" />](./assets/profile-banner.svg)
 
-<h1 align="center">Rael · realraelrr</h1>
+# Rael · realraelrr
 
 <p align="center">
   Building agentic tools, runtime automation, and AI workflows with Hermes agent + Codex.
