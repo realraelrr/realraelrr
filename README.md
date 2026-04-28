@@ -1,9 +1,10 @@
-[<img src="./assets/profile-banner.svg" alt="realraelrr - agentic tools and runtime automation" width="100%" />](./assets/profile-banner.svg)
+[<img src="./assets/profile-banner.png" alt="realraelrr - agentic tools and runtime automation" width="100%" />](./assets/profile-banner.png)
 
 # Rael · realraelrr
 
 <p align="center">
-  INTP building agentic tools, runtime automation, and AI workflows with Hermes agent + Codex.
+  INTP/J. Cat loyalist. Navigating the absurd with Camus and deconstructing systems with Foucault.
+  Recovering debater now orchestrating AI workflows via Hermes + Codex.
 </p>
 
 <p align="center">
@@ -16,65 +17,36 @@
 
 ---
 
-### Focus
+### Tech Stack: Vibe Coding
 
-I build practical AI-agent infrastructure and automation tools. Off the keyboard, I am a cat person, a reader of Foucault and Camus, and a Chinese-language debater from the university campus circuit.
+Let's be honest: my primary programming languages are English and structured prompting. I don't maintain a rigid list of frameworks.
 
-- Agent runtime workflows
-- Hermes agent + Codex workflows
-- Developer productivity systems
-- PDF and document ingestion pipelines
-- Gateway, watchdog, and recovery tooling
-- Small, reliable tools that are easy to run and inspect
+**My tech stack is whatever my LLM agents decide is best for the job today.** I provide the first principles, the architectural constraints, and the Occam's Razor ruthlessness. The agents, mostly Hermes + Codex, write the boilerplate. I do the code review, herd the autonomous workflows, argue with vision models when they hallucinate, and pay the API bills.
 
 ---
 
-### AI Workflow
+### The Workflow
 
-My default working loop is `Hermes agent + Codex`: Hermes carries memory, routing, and workflow continuity; Codex handles focused implementation, verification, and codebase edits.
+My default loop is building systems that can survive contact with reality.
 
-I like workflows that can think in systems and still survive contact with reality: clear handoff state, reproducible commands, observable recovery paths, and enough room for a good argument.
+- **Hermes** handles memory, routing, and workflow continuity, often wrangling multi-agent topologies.
+- **Codex** handles focused implementation, verification, and aggressive codebase edits.
 
----
-
-### Featured Work
-
-| Project | What it does | Stack |
-|---|---|---|
-| [idlepilot-agent](https://github.com/realraelrr/idlepilot-agent) | AI operations agent for marketplace customer service, expert routing, bargaining, and runtime recovery | Python |
-| [docling-skill](https://github.com/realraelrr/docling-skill) | Agent-first PDF ingestion layer with Markdown, image sidecars, OCR, and quality gating | Python |
-| [hermes-gateway-watchdog](https://github.com/realraelrr/hermes-gateway-watchdog) | Standalone macOS watchdog for Hermes gateway and Cloudflare tunnel health | Bash / JavaScript |
-| [openclaw-gateway-watchdog](https://github.com/realraelrr/openclaw-gateway-watchdog) | Watchdog tooling for OpenClaw gateway stability | JavaScript |
+I prefer tools with a lo-fi aesthetic, local-first data pipelines, clear failure modes, and enough observability that I can intervene when an agent inevitably goes rogue.
 
 ---
 
-### Working Style
+### Featured Automations
 
-- Prefer small tools with clear failure modes
-- Verify behavior with real commands, not assumptions
-- Keep automation observable and recoverable
-- Optimize for local-first workflows and agent handoff
+| Project | What the Agents Built (Mostly) |
+|---|---|
+| **[idlepilot-agent](https://github.com/realraelrr/idlepilot-agent)** | AI ops agent for marketplace customer service, expert routing, bargaining, and runtime recovery. Built for real-world chaos. |
+| **[docling-skill](https://github.com/realraelrr/docling-skill)** | Agent-first PDF ingestion layer with Markdown, image sidecars, OCR, and strict quality gating. |
+| **[hermes-gateway-watchdog](https://github.com/realraelrr/hermes-gateway-watchdog)** | macOS watchdog to keep Hermes gateway and Cloudflare tunnels alive while I sleep. |
+| **[openclaw-gateway-watchdog](https://github.com/realraelrr/openclaw-gateway-watchdog)** | Tooling to enforce stability on the OpenClaw gateway. |
 
 ---
 
-### Tech
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash-111827?style=flat&logo=gnubash" alt="Bash" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat&logo=githubactions" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/macOS-111827?style=flat&logo=apple" alt="macOS" />
-  <img src="https://img.shields.io/badge/Cloudflare-111827?style=flat&logo=cloudflare" alt="Cloudflare" />
+<p align="center">
+  <i>"Simple enough to work, complex enough to be interesting."</i>
 </p>
-
----
-
-### Profile Setup Notes
-
-For the full effect, set these GitHub profile fields manually after publishing this repository:
-
-- Name: `Rael`
-- Bio: `Building AI workflows with Hermes agent + Codex.`
-- Website: your personal site if you want one public
-- Pinned repositories: `idlepilot-agent`, `docling-skill`, `hermes-gateway-watchdog`, `openclaw-gateway-watchdog`
