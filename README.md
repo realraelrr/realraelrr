@@ -3,7 +3,7 @@
 # Rael · realraelrr
 
 <p align="center">
-  Building agentic tools, runtime automation, and AI workflows with Hermes agent + Codex.
+  INTP building agentic tools, runtime automation, and AI workflows with Hermes agent + Codex.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### Focus
 
-I build practical AI-agent infrastructure and automation tools:
+I build practical AI-agent infrastructure and automation tools. Off the keyboard, I am a cat person, a reader of Foucault and Camus, and a Chinese-language debater from the university campus circuit.
 
 - Agent runtime workflows
 - Hermes agent + Codex workflows
@@ -33,7 +33,7 @@ I build practical AI-agent infrastructure and automation tools:
 
 My default working loop is `Hermes agent + Codex`: Hermes carries memory, routing, and workflow continuity; Codex handles focused implementation, verification, and codebase edits.
 
-I use agents as an engineering surface, not a novelty layer: every useful workflow needs clear handoff state, reproducible commands, and observable recovery paths.
+I like workflows that can think in systems and still survive contact with reality: clear handoff state, reproducible commands, observable recovery paths, and enough room for a good argument.
 
 ---
 
