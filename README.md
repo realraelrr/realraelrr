@@ -2,42 +2,36 @@
 
 # Rael · realraelrr
 
-Hi, I'm Rael. I build small, stubborn AI workflows that do useful things quietly in the background.
-INTP/J, recovering debater, part-time reader of Camus and Foucault when the agents are compiling.
+INTP. Camus & Foucault enjoyer. AI native coding, agent infrastructure, and harness engineering — the scaffolding that keeps agents useful after the demo ends.
+
+Preferred harness: Codex. Occasional companion: Hermes agent.
 
 ---
 
-### What I'm Playing With
+### What I'm Building
 
-Most of my work lives somewhere between "automation that should exist" and "local tool I got tired of doing by hand."
+Every project here answers the same question: **what breaks when you try to run agents for real?**
 
-- Agent workflows with Hermes + Codex, usually glued together with local files, logs, and blunt constraints.
-- Document ingestion that makes agents check the manifest before trusting the markdown: [docling-skill](https://github.com/realraelrr/docling-skill).
-- Local recovery tools for services that should stay alive: [hermes-gateway-watchdog](https://github.com/realraelrr/hermes-gateway-watchdog), [openclaw-gateway-watchdog](https://github.com/realraelrr/openclaw-gateway-watchdog), and [watchdog-command-receiver](https://github.com/realraelrr/watchdog-command-receiver).
-- Marketplace ops experiments around routing, bargaining, memory, and recovery loops: [idlepilot-agent](https://github.com/realraelrr/idlepilot-agent).
+**Document Ingestion** — agents can't read PDFs without hallucinating
+
+- [docling-skill](https://github.com/realraelrr/docling-skill) — Manifest-based quality gating so the agent knows what's actually ready before it starts guessing. 4 releases, multi-OCR backends, Claude Code + Codex.
+
+**Agent Output** — agents produce Markdown, humans need something readable
+
+- [md-for-human](https://github.com/realraelrr/md-for-human) — Deterministic renderer: Markdown in, navigable HTML site out. The source stays clean, the artifact is disposable. Has a `--verify` flag and it's not afraid to use it.
+
+**Marketplace Ops** — what happens when the agent has to negotiate, not just chat
+
+- [idlepilot-agent](https://github.com/realraelrr/idlepilot-agent) — Second-hand marketplace ops agent with staged bargaining logic, expert routing, human takeover, and runtime credential recovery. Docker-deployed, Feishu-controlled. The bargaining is real and it's weirdly satisfying.
+
+**Infrastructure** — agents that don't crash, because I taught them not to
+
+- [hermes-gateway-watchdog](https://github.com/realraelrr/hermes-gateway-watchdog) — Gateway + Cloudflare tunnel health monitor with staged recovery.
+- [openclaw-gateway-watchdog](https://github.com/realraelrr/openclaw-gateway-watchdog) — Same pattern, different gateway. Cold-start tolerance so it doesn't mistake "waking up" for "dead."
+- [watchdog-command-receiver](https://github.com/realraelrr/watchdog-command-receiver) — Feishu IM command receiver. No public URL, no shell, audit-logged. Poke your infra from your phone.
 
 ---
-
-### Tech Stack, Sort Of
-
-My primary programming languages are **English, structured prompts, and "please show me the diff."**
-
-I don't keep a sacred framework list. I set the first principles, constraints, and taste; the agents write the first draft; I review, simplify, test, and ask why the thing is doing that.
 
 > **The goal is not to make agents look magical. The goal is to make them useful, inspectable, and boring enough to trust.**
-
----
-
-### Operating Notes
-
-- **Local-first** when possible
-- **Clear failure modes** over clever abstractions
-- **Logs** over vibes
-- Simple enough to fix, strange enough to be mine
-- **Camus** for morale. **Foucault** for threat modeling.
-
-*Most repos here are workshop objects: sometimes useful, sometimes unfinished, usually teaching me something.*
-
----
 
 *"Simple enough to work, complex enough to be interesting."*
