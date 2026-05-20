@@ -20,10 +20,12 @@ Every project here answers the same question: **what breaks when you try to run 
 
 - [md-for-human](https://github.com/realraelrr/md-for-human) — Deterministic renderer: Markdown in, navigable HTML site out. The source stays clean, the artifact is disposable. Has a `--verify` flag and it's not afraid to use it.
 
+**Business Agent** — a digital employee, not just a chatbot
+
+- [knot-agent](https://github.com/realraelrr/knot-agent) + [knot-skills](https://github.com/realraelrr/knot-skills) — Prototype for an enterprise digital worker: local-first workspace, durable knowledge, reusable skills, and multi-channel, multi-user communication. The target is an agent that can exist inside a company as an independent operating role.
+
 **Infrastructure** — agents that don't crash, because I taught them not to
 
-- [knot-agent](https://github.com/realraelrr/knot-agent) — Local-first Codex workspace scaffold with runtime boundaries, IM routing, knowledge layout, and operating rules.
-- [knot-skills](https://github.com/realraelrr/knot-skills) — Curated skill distribution for Codex workspaces: office files, ingestion, Markdown rendering, planning, and handoff.
 - [hermes-gateway-watchdog](https://github.com/realraelrr/hermes-gateway-watchdog) — Gateway + Cloudflare tunnel health monitor with staged recovery.
 - [openclaw-gateway-watchdog](https://github.com/realraelrr/openclaw-gateway-watchdog) — Same pattern, different gateway. Cold-start tolerance so it doesn't mistake "waking up" for "dead."
 - [watchdog-command-receiver](https://github.com/realraelrr/watchdog-command-receiver) — Feishu IM command receiver. No public URL, no shell, audit-logged. Poke your infra from your phone.
