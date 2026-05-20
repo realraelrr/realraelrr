@@ -20,9 +20,9 @@ Every project here answers the same question: **what breaks when you try to run 
 
 - [md-for-human](https://github.com/realraelrr/md-for-human) — Deterministic renderer: Markdown in, navigable HTML site out. The source stays clean, the artifact is disposable. Has a `--verify` flag and it's not afraid to use it.
 
-**Business Agent** — a digital employee, not just a chatbot
+**Digital Worker Runtime** — agents as operating roles, not chatbots
 
-- [knot-agent](https://github.com/realraelrr/knot-agent) + [knot-skills](https://github.com/realraelrr/knot-skills) — Prototype for an enterprise digital worker: local-first workspace, durable knowledge, reusable skills, and multi-channel, multi-user communication. The target is an agent that can exist inside a company as an independent operating role.
+- [knot-agent](https://github.com/realraelrr/knot-agent) + [knot-skills](https://github.com/realraelrr/knot-skills) — Local-first runtime scaffolding for enterprise digital workers: workspace, knowledge, permissions, skills, deliverables, and multi-user IM workflows. Knot asks what an agent needs before it can act like a durable employee inside a company.
 
 **Infrastructure** — agents that don't crash, because I taught them not to
 
